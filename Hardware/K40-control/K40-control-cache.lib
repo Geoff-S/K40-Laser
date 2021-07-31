@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# K40-control-rescue_TCB_4-k40-laser
+#
+DEF K40-control-rescue_TCB_4-k40-laser P 0 12 Y N 1 F N
+F0 "P" -50 -500 50 V V C CNN
+F1 "K40-control-rescue_TCB_4-k40-laser" 50 -450 39 V V C CNN
+F2 "" 100 50 50 H I C CNN
+F3 "" 100 50 50 H I C CNN
+DRAW
+S 100 -650 -100 -250 0 1 10 N
+X P 1 -200 -300 100 R 50 50 0 1 P I
+X P 2 -200 -400 100 R 50 50 1 1 P I
+X P 3 -200 -500 100 R 50 50 1 1 P I
+X P 4 -200 -600 100 R 50 50 1 1 P I
+ENDDRAW
+ENDDEF
+#
+# K40-control-rescue_TCB_6-k40-laser
+#
+DEF K40-control-rescue_TCB_6-k40-laser P 0 38 Y N 1 F N
+F0 "P" -50 -100 50 V V C CNN
+F1 "K40-control-rescue_TCB_6-k40-laser" 50 -50 39 V V C CNN
+F2 "" 100 50 50 H I C CNN
+F3 "" 100 50 50 H I C CNN
+DRAW
+S 100 -350 -100 250 0 1 10 N
+X P 1 -200 200 100 R 50 50 1 1 P I
+X P 2 -200 100 100 R 50 50 1 1 P I
+X P 3 -200 0 100 R 50 50 1 1 P I
+X P 4 -200 -100 100 R 50 50 1 1 P I
+X P 5 -200 -200 100 R 50 50 1 1 P I
+X P 6 -200 -300 100 R 50 50 1 1 P I
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name K40-control-rescue)(type Legacy)(uri ${KIPRJMOD}/K40-control-rescue.lib)(options "")(descr ""))
+)
