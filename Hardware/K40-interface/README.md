@@ -1,4 +1,4 @@
-#Interface Board
+# Interface Board
 This is a cut down vcopy of the kicad project related to the interface
 PCB designed by Scott Bragg to handle voltage level problems between the
 RPI-CNC and the K40 end stop circuit
