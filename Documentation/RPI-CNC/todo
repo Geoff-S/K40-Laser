@@ -1,0 +1,10 @@
+Document how to update/flash grbl from Pi
+
+Document pi-install program and how to create a new Pi image with Laserweb
+
+Changes to Pi config:
+  Disable onboard wifi and blutooth
+  change tty settings
+Need changes to pi to reduce SD card usage (or run from USB drive?) so
+removing powwer will not corrupt SD card image.
+
