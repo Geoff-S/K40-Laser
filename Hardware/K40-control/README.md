@@ -1,3 +1,5 @@
 # K40-control
-THis kicad project is for the control side of the K40. It covers the 
+
+This project is for the control side of the K40. It covers the 
 Raspberry Pi, Protoneer CNC Pihat and the stepper drivers.
+I/O pcb refers to the interface PCB tht connects the FFC to the gantry PCB

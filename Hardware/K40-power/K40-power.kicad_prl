@@ -71,6 +71,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "K40-power.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 1077,
+          "pos_y": 261,
+          "size_x": 1991,
+          "size_y": 1099
+        }
+      }
+    ]
   }
 }
