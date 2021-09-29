@@ -73,15 +73,15 @@
   "project": {
     "files": [
       {
-        "name": "K40-power.kicad_sch",
+        "name": "K40-power.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 845,
-          "pos_y": 57,
-          "size_x": 2205,
-          "size_y": 1219
+          "pos_x": 1609,
+          "pos_y": 238,
+          "size_x": 1845,
+          "size_y": 788
         }
       }
     ]
